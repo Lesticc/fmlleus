@@ -1,0 +1,25 @@
+
+    <head>
+   <title>Jornal da Leusa!</title>
+  <link rel="icon" href="./images/favicon.png" type="image/x-icon">
+   <link rel="stylesheet" href="./css/jornal-stylesheet.css">
+    </head>
+
+<!-- Escala para o celular-->
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- Cabeçalho-->
+    <body>
+      <header class="menu-principal">
+      <main>
+       <div class="header-1">
+       <div class="logo">
+         <a href="index.html"><img src="./images/icone.png"/></a>
+      </div>
+      <div class="paginas">
+        <nav><a class="pra"; style=color:black; href="./jornal.html" title="Jornal">Jornal</a> <a class="sea"; style=color:black; href="./sobremim.html" title="Sobre Lestic">Sobre o Lestic</a></nav>
+       </div>
+      </div>
+     </main>
+     </header>
+     </body>
