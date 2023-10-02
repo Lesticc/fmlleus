@@ -31,9 +31,11 @@ body {
     }
 
     footer{
-        background-color: #636363;
-        font-size:23px;
-    } 
+        background-color:#061A54;
+        bottom: 0;
+        width: 100%;
+        text-align: center;
+    }
 
         a{
 color: rgb(30, 65, 97);
