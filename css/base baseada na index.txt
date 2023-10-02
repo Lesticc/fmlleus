@@ -26,6 +26,13 @@ h1{
     color:#686eb3;
 }
 
+p3{
+    font-family: Roboto, sans-serif;
+    text-align:left;
+    color:#686eb3;
+    font-weight:bold;
+}
+
 a{
     color: whitesmoke;
     font-family: Roboto, sans-serif;
@@ -58,6 +65,13 @@ nav {
 
 .sea{
     margin: 20px
+}
+
+footer{
+    background-color:#061A54;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=AR+One+Sans&family=Roboto&display=swap');

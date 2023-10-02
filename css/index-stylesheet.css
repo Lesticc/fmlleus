@@ -13,6 +13,7 @@
     width: 100%;
     background-color: #DBDBDB;
     height: 60px;
+    margin:0;
 } 
 
 .logo {
@@ -24,6 +25,13 @@ h1{
     font-family: Roboto, sans-serif;
     text-align:left;
     color:#686eb3;
+}
+
+p3{
+    font-family: Roboto, sans-serif;
+    text-align:left;
+    color:#686eb3;
+    font-weight:bold;
 }
 
 a{
@@ -45,14 +53,6 @@ div {
     display: inline-block;
 }
 
-.margin2 {
-    margin: 20px;
-}
-
-.margin3 {
-    margin:20px
-}
-
 nav {
     text-align: right;
     font-family: 'AR One Sans', sans-serif;
@@ -63,11 +63,21 @@ nav {
     margin:150px
 }
 
-.sea{
-    margin: 20px
+.margin1{
+    margin: 20px;
+    display: inline-block;
 }
 
+.margin2{
+    margin: 10px;
+}
 
+footer{
+    background-color:#061A54;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
 
 @import url('https://fonts.googleapis.com/css2?family=AR+One+Sans&family=Roboto&display=swap');
 
