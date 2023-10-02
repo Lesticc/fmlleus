@@ -23,3 +23,10 @@
      </main>
      </header>
      </body>
+
+    <footer>
+     <body>
+      <p3>Veja essas outras páginas :D</p3>
+      <nav><a class="pra"; style=color:black; href="./jornal.html" title="Jornal">Jornal</a> <a class="sea"; style=color:black; href="./sobremim.html" title="Sobre Lestic">Sobre o Lestic</a></nav>
+     </body>
+    </footer>
