@@ -24,32 +24,19 @@ h1{
     font-family: Roboto, sans-serif;
     text-align:center;
     color:#686eb3;
-    font-size:30px
 }
-
-
 
 p3{
     font-family: Roboto, sans-serif;
     text-align:left;
     color:#686eb3;
-    font-weight:bold;
-}
-
-h2{
-    font-family: Roboto, sans-serif;
-    text-align:center;
-    color:#686eb3;
-    font-size:30px
 }
 
 a{
     color: whitesmoke;
     font-family: Roboto, sans-serif;
     text-decoration:none;
-    color:#777a6c;
-    font-weight:bold;
-    font-weight:bolder;
+    color:#6572ff;
 }
 
 caption {
@@ -58,16 +45,12 @@ caption {
 
 p1 {
     font-family: Roboto, sans-serif;
-    color:#e0e4d4;
+    color:#e0dbdb;
     text-align:center;
 }
 
 div {
     display: inline-block;
-}
-
-.j {
-    margin: 5px;
 }
 
 nav {
@@ -77,45 +60,11 @@ nav {
 }
 
 .pra{
-    margin:150px;
+    margin:150px
 }
 
 .sea{
-    margin: 20px;
-}
-
-.pfp {
-    text-align:center;
-    display:block;
-}
-
-.sobremim {
-    text-align:center;
-    margin: 5%;
-}
-
-.continuacao{
-    text-align:center;
-    margin:5%;
-}
-
-.gostos{
-    text-align:center;
-    margin: 5%;
-}
-
-.listadegostos{
-    text-align:center;
-    margin:5%;
-}
-
-.gostos4{
-    display:block;    
-    text-align:center;
-    margin:5%;
-    width: 100%;
-    height:100%;
-    padding:5%;
+    margin: 20px
 }
 
 footer{

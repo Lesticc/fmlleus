@@ -55,6 +55,7 @@ div {
 
 .j {
     margin: 5px;
+    font-family: 'Inter', sans-serif;
 }
 
 nav {
@@ -78,6 +79,9 @@ footer{
     text-align: center;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=AR+One+Sans&family=Roboto&display=swap');
-
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=AR+One+Sans');
+

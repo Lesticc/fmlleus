@@ -27,8 +27,6 @@ h1{
     font-size:30px
 }
 
-
-
 p3{
     font-family: Roboto, sans-serif;
     text-align:left;
@@ -89,34 +87,6 @@ nav {
     display:block;
 }
 
-.sobremim {
-    text-align:center;
-    margin: 5%;
-}
-
-.continuacao{
-    text-align:center;
-    margin:5%;
-}
-
-.gostos{
-    text-align:center;
-    margin: 5%;
-}
-
-.listadegostos{
-    text-align:center;
-    margin:5%;
-}
-
-.gostos4{
-    display:block;    
-    text-align:center;
-    margin:5%;
-    width: 100%;
-    height:100%;
-    padding:5%;
-}
 
 footer{
     background-color:#061A54;
