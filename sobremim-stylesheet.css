@@ -1,0 +1,131 @@
+
+#grad {
+    background-image: linear-gradient(rgb(15, 24, 110), rgb(85, 42, 124));
+  }
+
+  body {
+      background-color: rgb(4, 8, 27);
+      width: 100%;
+      height: 100%;
+  }
+
+.menu-principal {
+    width: 100%;
+    background-color: #DBDBDB;
+    height: 60px;
+} 
+
+.logo {
+    padding: 13px;
+    text-align: 60px;
+}
+
+h1{
+    font-family: Roboto, sans-serif;
+    text-align:center;
+    color:#686eb3;
+    font-size:30px
+}
+
+
+
+p3{
+    font-family: Roboto, sans-serif;
+    text-align:left;
+    color:#686eb3;
+    font-weight:bold;
+}
+
+h2{
+    font-family: Roboto, sans-serif;
+    text-align:center;
+    color:#686eb3;
+    font-size:30px
+}
+
+a{
+    color: whitesmoke;
+    font-family: Roboto, sans-serif;
+    text-decoration:none;
+    color:#777a6c;
+    font-weight:bold;
+    font-weight:bolder;
+}
+
+caption {
+    padding: 1px
+}
+
+p1 {
+    font-family: Roboto, sans-serif;
+    color:#e0e4d4;
+    text-align:center;
+}
+
+div {
+    display: inline-block;
+}
+
+.j {
+    margin: 5px;
+}
+
+nav {
+    text-align: right;
+    font-family: 'AR One Sans', sans-serif;
+    font-size:23px;
+}
+
+.pra{
+    margin:150px;
+}
+
+.sea{
+    margin: 20px;
+}
+
+.pfp {
+    text-align:center;
+    display:block;
+}
+
+.sobremim {
+    text-align:center;
+    margin: 5%;
+}
+
+.continuacao{
+    text-align:center;
+    margin:5%;
+}
+
+.gostos{
+    text-align:center;
+    margin: 5%;
+}
+
+.listadegostos{
+    text-align:center;
+    margin:5%;
+}
+
+.gostos4{
+    display:block;    
+    text-align:center;
+    margin:5%;
+    width: 100%;
+    height:100%;
+    padding:5%;
+}
+
+footer{
+    background-color:#061A54;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=AR+One+Sans&family=Roboto&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
