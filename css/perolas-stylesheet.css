@@ -57,22 +57,19 @@ nav {
     text-align: right;
     font-family: 'AR One Sans', sans-serif;
     font-size:23px;
-}
-
-.pra{
+  }
+  .pra{
     margin:150px
-}
-
-.sea{
-    margin: 20px
-}
-
-footer{
+  }
+  footer{
     background-color:#061A54;
     bottom: 0;
     width: 100%;
     text-align: center;
-}
+  }
+  .economy {
+    text-align: center;
+  }
 
 @import url('https://fonts.googleapis.com/css2?family=AR+One+Sans&family=Roboto&display=swap');
 
