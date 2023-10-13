@@ -47,9 +47,7 @@ a{
     color: whitesmoke;
     font-family: Roboto, sans-serif;
     text-decoration:none;
-    color:#777a6c;
-    font-weight:bold;
-    font-weight:bolder;
+    color:#6572ff;
 }
 
 caption {
@@ -62,70 +60,26 @@ p1 {
     text-align:center;
 }
 
+p {
+    font-family: Roboto, sans-serif;
+    color:#e0e4d4;
+    text-align:center;
+}
+
 div {
     display: inline-block;
 }
 
-.j {
-    margin: 5px;
+.link {
+    text-align:right;
+    margin-right:10px;
+    margin-top:10px;
+    font-family:'AR One Sans', sans-serif;
+    font-weight:700;
 }
 
-nav {
-    text-align: right;
-    font-family: 'AR One Sans', sans-serif;
-    font-size:23px;
-}
-
-.pra{
-    margin:150px;
-}
-
-.sea{
-    margin: 20px;
-}
-
-.pfp {
-    text-align:center;
-    display:block;
-}
-
-.sobremim {
-    text-align:center;
-    margin: 5%;
-}
-
-.continuacao{
-    text-align:center;
-    margin:5%;
-}
-
-.gostos{
-    text-align:center;
-    margin: 5%;
-}
-
-.listadegostos{
-    text-align:center;
-    margin:5%;
-}
-
-.gostos4{
-    display:block;    
-    text-align:center;
-    margin:5%;
-    width: 100%;
-    height:100%;
-    padding:5%;
-}
-
-footer{
-    background-color:#061A54;
-    bottom: 0;
-    width: 100%;
-    text-align: center;
+.linka {
+    margin:7px;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=AR+One+Sans&family=Roboto&display=swap');
-
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
-
