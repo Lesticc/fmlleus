@@ -2,7 +2,7 @@
     <head>
    <title>Jornal da Leusa!</title>
   <link rel="icon" href="./images/favicon.png" type="image/x-icon">
-   <link rel="stylesheet" href="./css/jornal-stylesheet.css">
+  <link rel="stylesheet" href="./css/jornal-stylesheet.css">
     </head>
 
 <!-- Embed para a menção-->
