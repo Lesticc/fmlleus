@@ -3,7 +3,7 @@
 
 Olá, eu sou o Lestic, também conhecido como outros nicks de exemplo Meleus, ou MeleusGamer, estou na internet desde maio de 2020!
 
-![imagem](https://lesticc.github.io/fmlleus/img/lestic.png) 
+![imagem](https://lesticc.github.io/fmlleus/images/lestic.png) 
 
 ## Porque e como fiz o site?
 
